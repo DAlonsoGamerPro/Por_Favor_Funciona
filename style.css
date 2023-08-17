@@ -1,0 +1,14 @@
+body
+{
+    color: white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    background-color: rgb(204, 0, 255);
+    text-align: center;
+}
